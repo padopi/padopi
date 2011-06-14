@@ -1,0 +1,53 @@
+body{
+font-family:Helvetica,sans-serif;
+font-size:14px;
+}
+a{color:#333;}
+a:hover{color:#A52931;}
+p, h1, h2,h3,form, button{border:0; margin:0; padding:0;}
+h1,h2,h3,h4{color:#b7ddf2}
+h1{font-size:40px;}
+h2{font-size:34px;margin-top:10px;margin-bottom:5px;color:#333;}
+h3{font-size:20px;color:#333;margin-bottom:2px;}
+.spacer{clear:both; height:1px;}
+a.download{font-size:1.5em;color:#7D9C0B}
+a.download:hover{color:#333;}
+a:focus{-moz-outline-style: none;outline:none;}
+a img{border:0;}
+.container{
+margin:5px auto;
+width:500px;
+padding:14px;
+}
+h2 img{position:relative; top:3px;}
+#results ul#results_list{list-style: none;margin:0;padding:0;}
+#results ul#results_list li{padding:2px;border:solid 2px #b7ddf2; background-color:#fff;margin-top:2px;}
+#wrapper{width:1000px;margin:auto;overflow: hidden;}
+.text{line-height: 1.4em;padding:5px;border:1px solid #ebf4fb;background-color:#ebf4fb; -moz-border-radius: 5px;background-color:#F9F9F9; color:#333;width:720px;}
+.text ul, .text table{margin-left:10px;margin-bottom:10px;}
+.text ul li{font-weight: bold;}
+
+.full{width:auto;}
+
+span.hint{font-style: italic; color:#A52931;padding-left:5px;}
+table th{font-size:16px; color:#aacfe4}
+table td{padding:10px;}
+.ad{margin-top:10px;}
+.formation_style{background-color:#333;padding:7px;}
+ul.social_networking{padding:0 10px; margin-bottom:10px;margin-top:0px;}
+ul.social_networking li{}
+
+.sidebar{float:right;}
+
+.top_button{position:fixed;bottom:5px;right:5px;z-index:1000; border:2px solid #333; padding:5px;-moz-border-radius:7px; width:30px;text-align:center;-webkit-border-radius:10px;display:none;}
+.top_button:hover{background-color:#f0f0f0;color:#000;}
+
+ul.links{font-size:1.5em;margin-top:5px;border-bottom:1px solid #333;padding-bottom:5px;text-align: center;}
+ul.links li{display:inline;margin-right:10px;}
+ul.links li.last{margin-right:0;}
+ul.links a {color:#7D9C0B;text-decoration: underline;}
+ul.links a:hover{color:#000;text-decor}
+
+.header{padding:10px 0; margin-bottom:10px;width:1000px;margin:auto;}
+.header h1{color:#333;font-size:46px;text-shadow:#ccc 0.1em 0.1em 0.1em;}
+.footer{padding:5px 0; border-top:1px solid #333;margin-top:5px;text-align:right;}

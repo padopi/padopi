@@ -1,0 +1,94 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Pa Do Pi</title>
+<meta name="description" content="PaDoPi est un générateur de mails Hadopi ! " /> 
+<link rel="stylesheet" href="javascript/css/formation.css" />
+<link rel="stylesheet" href="javascript/css/formation2.css" />
+<script type="text/javascript" src="javascript/jquery/jquery.1.5.2.min.js"></script>
+<script type="text/javascript" src="javascript/formation.js"></script>
+<script type="text/javascript" src="javascript/jquery/plugins/jquery-syntax/jquery.syntax.min.js"></script>
+<script type="text/javascript" src="javascript/utils.js"></script>
+
+
+</head>
+	<body> 
+		<div id="wrapper">
+
+			<div class="sidebar">
+
+				<ul class="social_networking">
+					<h2>Faites circuler</h2>
+					<li>
+						<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+					</li>
+					<li>
+						<iframe src="http://www.facebook.com/plugins/like.php?app_id=225588537452723&amp;href=http%3A%2F%2Fmattnull.com%2Fformation&amp;send=false&amp;layout=box_count&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=verdana&amp;height=90" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:60px;" allowTransparency="true"></iframe>
+					</li>
+				</ul>
+			</div>
+			
+			<div class="header">
+				<h1>Pa-Do-Pi</h1>
+			</div>
+
+			<div class="text">
+			Padopi est un générateur de mails Hadopi pour faire des blagues à vos amis :)
+			</div>
+			
+
+			<h2>Comment ca marche ?</h2>
+			<div class="text full">
+			Remplissez le formulaire ci-dessous. Ces informations seront utilisées 
+			(mais <b><i>jamais enregistrées</i></b>, croyez-le ou non) pour générer un e-mail crédible.<br/>
+			Cliquez sur envoyer et prévenez (un peu plus tard) votre ami(e) que vous lui avez fait une blague !
+			</div>
+			
+			<h2>Lol-mentions légales</h2>
+			<div class="text full">
+			    ♡ 2011 par le comité padopi. 
+			    <a href="http://copyheart.org/manifesto/">Copier est un acte d'amour</a>.
+			    <a href="https://github.com/padopi/padopi">Copiez-nous !</a>
+			</div>
+			
+			<div class="text full">
+				<span class="hint">
+				Vous êtes responsables de l'envoi de cet e-mail, 
+				donc vous êtes également responsables de prévenir son destinataire 
+				que c'est une blague (c'est précisé dans le mail, 
+				mais en tout petit à la fin).
+				</span>
+
+			</div>
+			
+			<div class="stylized container" id="padopi-script"><h1>La victime de votre blague</h1></div>
+
+	</div>
+</div>
+</body>
+<script type="text/javascript">
+$(document).ready(function(){
+	$("#padopi-script").formation({ className:"formation", id:"formation", method:"POST", action:"padopi.php"});
+	$.formation.addInput({name: "prenom", type:"text",labelValue:"Son prénom",required:true});
+	$.formation.addInput({name: "nom", type:"text",labelValue:"Son nom",required:true});
+	$.formation.addInput({name: "ip", type:"text",labelValue:"Son IP",required:true, defaultValue:"82.123.142.157"});
+	$.formation.addInput({name: "fai", type:"text",labelValue:"Son fournisseur d'accès",required:true, defaultValue:"Orange"});
+	$.formation.addInput({name: "date", type:"text",labelValue:"Date de l'infraction",required:true, defaultValue:"mardi 29 mars 2011 à 19h37"});
+	$.formation.addInput({name: "address1", type:"text",labelValue:"Adresse (numéro, rue)",required:false});
+	$.formation.addInput({name: "address2", type:"text",labelValue:"Adresse (code postal, ville)",required:false});
+	$.formation.addCaptcha({
+	    captcha:"Mauvaise réponse !",
+	    captchaQuestions:{
+	        "Combien font deux et deux ?":"quatre",
+	        "Combien font deux et deux ?":"4",
+	        "Combien font un et un ?":"deux",
+	        "Combien font un et un ?":"2"
+	    }
+	});
+	$.formation.addInput({name:"dest",type:"text",labelValue:"Son adresse e-mail",validation:'email',required:true});
+	$.formation.addButton({value: "Envoyer !"});
+});
+</script>
+
+</html>
