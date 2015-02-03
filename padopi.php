@@ -51,11 +51,11 @@
                       <td width="2" bgcolor="#0073cf"><font face="Arial">&nbsp;</font></td>
                       <td style="font-size: 0px;" width="6" height="36"><font face="Arial">&nbsp;</font></td>
                       <td style="font-family: arial; color: rgb(0, 115, 207); font-size: 13px;" valign="bottom" width="552" align="left" height="36"><b>Recommandation de la Commission de la 
-                        Protection des Droits de la Haute autorité pour la 
-                        diffusion des œuvres et la protection des droits sur 
+                        Protection des Droits de la Haute autoritï¿½ pour la 
+                        diffusion des ï¿½uvres et la protection des droits sur 
                         Internet (Hadopi)</b></td></tr></tbody></table></td></tr>
               <tr>
-                <td style="font-family: arial; color: rgb(0, 0, 0); font-size: 12px;" valign="middle" width="560" align="left" height="98">Dossier <span style="color: rgb(57, 74, 88);">n°</span> <span style="color: rgb(0, 115, 207);">211 28 294 4 129 
+                <td style="font-family: arial; color: rgb(0, 0, 0); font-size: 12px;" valign="middle" width="560" align="left" height="98">Dossier <span style="color: rgb(57, 74, 88);">nï¿½</span> <span style="color: rgb(0, 115, 207);">211 28 294 4 129 
                   2</span><br>Date : <span style="color: rgb(0, 115, 207);">';
 		  $message .= $post_date; 
 
@@ -72,30 +72,30 @@
                       <td style="font-size: 0px;" valign="top" width="9" align="left" height="34"><font face="Arial">&nbsp;</font></td>
 
                       <td style="font-family: arial; color: rgb(0, 115, 207); font-size: 12px;" valign="middle" width="549" align="left" height="34">Attention, 
-                        votre accès à internet a été utilisé pour commettre des 
-                        faits, constatés par procès-verbal, qui peuvent 
-                        constituer une infraction pénale.</td>
+                        votre accï¿½s ï¿½ internet a ï¿½tï¿½ utilisï¿½ pour commettre des 
+                        faits, constatï¿½s par procï¿½s-verbal, qui peuvent 
+                        constituer une infraction pï¿½nale.</td>
                       <td style="font-size: 0px;" valign="top" width="1" align="left" bgcolor="#0073cf" height="34"><font face="Arial"><br></font></td></tr></tbody></table></td></tr>
               <tr>
                 <td style="font-size: 0px;" valign="top" align="left" bgcolor="#0073cf" height="1"><font face="Arial"><br></font></td></tr>
               <tr>
                 <td style="text-align: justify; font-family: arial; color: rgb(0, 0, 0); font-size: 12px;" valign="middle" width="560" align="left" height="219">En effet, votre 
-                  accès internet a été utilisé pour mettre à disposition, 
-                  reproduire ou accéder à des œuvres culturelles protégées par 
+                  accï¿½s internet a ï¿½tï¿½ utilisï¿½ pour mettre ï¿½ disposition, 
+                  reproduire ou accï¿½der ï¿½ des ï¿½uvres culturelles protï¿½gï¿½es par 
                   un droit d"auteur. Cette situation rend possible leur 
                   consultation ou leur reproduction sans autorisation des 
                   personnes titulaires des droits. De telles consultations ou 
-                  reproductions, appelées couramment « piratage », constituent 
-                  un délit sanctionné par les tribunaux.<br><br>Cette 
-                  utilisation a pu intervenir sans votre permission ou à votre 
-                  insu, peut-être même par un usager non averti. Mais dans tous 
-                  les cas, en tant que titulaire de l"abonnement à internet, 
-                  vous êtes légalement responsable de l"utilisation qui en est 
-                  faite*.<br><br>Vous devez en effet veiller à ce que cet accès 
+                  reproductions, appelï¿½es couramment ï¿½ piratage ï¿½, constituent 
+                  un dï¿½lit sanctionnï¿½ par les tribunaux.<br><br>Cette 
+                  utilisation a pu intervenir sans votre permission ou ï¿½ votre 
+                  insu, peut-ï¿½tre mï¿½me par un usager non averti. Mais dans tous 
+                  les cas, en tant que titulaire de l"abonnement ï¿½ internet, 
+                  vous ï¿½tes lï¿½galement responsable de l"utilisation qui en est 
+                  faite*.<br><br>Vous devez en effet veiller ï¿½ ce que cet accï¿½s 
                   ne fasse pas l"objet d"un usage frauduleux, en prenant toute 
-                  précaution pour le sécuriser. C"est une obligation légale, 
-                  sanctionnée par les tribunaux si elle n"est pas 
-              observée**.</td></tr>
+                  prï¿½caution pour le sï¿½curiser. C"est une obligation lï¿½gale, 
+                  sanctionnï¿½e par les tribunaux si elle n"est pas 
+              observï¿½e**.</td></tr>
               <tr>
 
                 <td style="font-size: 0px;" valign="top" align="left">
@@ -120,17 +120,17 @@
 
               <tr>
                 <td style="text-align: justify; font-family: arial; color: rgb(0, 0, 0); font-size: 12px;" valign="middle" width="560" align="left" height="225">On vous reproche 
-                  un manquement à votre obligation de 
-                  surveillance.<br><br>Ainsi, dans votre cas :<br><br>• Des 
-                  agents assermentés ont constaté que le ';
+                  un manquement ï¿½ votre obligation de 
+                  surveillance.<br><br>Ainsi, dans votre cas :<br><br>ï¿½ Des 
+                  agents assermentï¿½s ont constatï¿½ que le ';
 		  $message .= $date;
-		  $message .= '***, une ou plusieurs œuvres protégées étaient 
-                  reproduites, consultées ou offertes en partage depuis l"accès 
-                  à Internet correspondant à l"adresse IP n°';
+		  $message .= '***, une ou plusieurs ï¿½uvres protï¿½gï¿½es ï¿½taient 
+                  reproduites, consultï¿½es ou offertes en partage depuis l"accï¿½s 
+                  ï¿½ Internet correspondant ï¿½ l"adresse IP nï¿½';
 	$message .= $ip;
-	$message .= '.<br>• Cette adresse avait été attribuée à ce moment par la société ';
+	$message .= '.<br>ï¿½ Cette adresse avait ï¿½tï¿½ attribuï¿½e ï¿½ ce moment par la sociï¿½tï¿½ ';
 		  $message .= $fai;
-                  $message .= ', votre fournisseur d"accès à Internet, à :<br><br>';
+                  $message .= ', votre fournisseur d"accï¿½s ï¿½ Internet, ï¿½ :<br><br>';
 		  $message .= $prenom . " " . $nom . "<br>"; 
 		  $message .= $addr1;
 		  $message .= '<br>';
@@ -153,16 +153,16 @@
                       <td style="font-size: 0px;" valign="top" width="1" align="left" bgcolor="#0073cf"><br></td>
                       <td style="font-size: 0px;" valign="top" width="431" align="left" bgcolor="#ffffff">&nbsp;</td></tr></tbody></table></td></tr>
               <tr>
-                <td style="text-align: justify; font-family: arial; color: rgb(0, 0, 0); font-size: 12px;" valign="middle" width="560" align="left" height="115">Si, en dépit de 
-                  cette recommandation vous invitant à prendre, dans les 
-                  meilleurs délais, toute mesure utile et faute de mettre en 
-                  œuvre, de façon effective, un ou plusieurs moyens de 
-                  sécurisation de votre accès à Internet, de nouveaux 
-                  manquements à votre obligation de surveillance venaient à être 
-                  constatés, une contravention de négligence caractérisée 
-                  pourrait être constituée à votre égard. Le juge judiciaire, 
+                <td style="text-align: justify; font-family: arial; color: rgb(0, 0, 0); font-size: 12px;" valign="middle" width="560" align="left" height="115">Si, en dï¿½pit de 
+                  cette recommandation vous invitant ï¿½ prendre, dans les 
+                  meilleurs dï¿½lais, toute mesure utile et faute de mettre en 
+                  ï¿½uvre, de faï¿½on effective, un ou plusieurs moyens de 
+                  sï¿½curisation de votre accï¿½s ï¿½ Internet, de nouveaux 
+                  manquements ï¿½ votre obligation de surveillance venaient ï¿½ ï¿½tre 
+                  constatï¿½s, une contravention de nï¿½gligence caractï¿½risï¿½e 
+                  pourrait ï¿½tre constituï¿½e ï¿½ votre ï¿½gard. Le juge judiciaire, 
                   saisi par l"Hadopi, pourrait alors prononcer une suspension de 
-                  cet accès ainsi que, le cas échéant, une peine d"amende.</td></tr>
+                  cet accï¿½s ainsi que, le cas ï¿½chï¿½ant, une peine d"amende.</td></tr>
 
               <tr>
                 <td style="font-size: 0px;" valign="top" width="560" align="left">
@@ -177,18 +177,18 @@
                       <td style="font-size: 0px;" valign="top" width="414" align="left" bgcolor="#ffffff">&nbsp;</td></tr></tbody></table></td></tr>
               <tr>
                 <td style="text-align: justify; font-family: arial; color: rgb(0, 0, 0); font-size: 12px;" valign="middle" width="560" align="left" height="176">Vous pouvez 
-                  demander des précisions sur les œuvres consultées, offertes en 
-                  partage ou reproduites à partir de votre accès internet et, le 
-                  cas échéant, formuler des observations, en contactant l"Hadopi 
-                  :<br><br>• par voie électronique, en utilisant le formulaire 
-                  accessible à l"adresse <span style="color: rgb(0, 115, 207);">www[.]hadopi[.]fr</span> ;<br>• 
-                  par courrier postal, adressé à l"Hadopi, Commission de 
+                  demander des prï¿½cisions sur les ï¿½uvres consultï¿½es, offertes en 
+                  partage ou reproduites ï¿½ partir de votre accï¿½s internet et, le 
+                  cas ï¿½chï¿½ant, formuler des observations, en contactant l"Hadopi 
+                  :<br><br>ï¿½ par voie ï¿½lectronique, en utilisant le formulaire 
+                  accessible ï¿½ l"adresse <span style="color: rgb(0, 115, 207);">www[.]hadopi[.]fr</span> ;<br>ï¿½ 
+                  par courrier postal, adressï¿½ ï¿½ l"Hadopi, Commission de 
                   protection des droits, <span style="color: rgb(0, 115, 207);">4 
-                  rue du Texel 75014 PARIS</span>, en utilisant le même 
-                  formulaire ;<br>• par téléphone, au <span style="color: rgb(0, 115, 207);">09 69 32 90 90 (appel non 
-                  surtaxé)</span>.<br><br>Dans ce cas, vous devez 
-                  obligatoirement rappeler le numéro de dossier mentionné au 
-                  début de ce message.</td></tr>
+                  rue du Texel 75014 PARIS</span>, en utilisant le mï¿½me 
+                  formulaire ;<br>ï¿½ par tï¿½lï¿½phone, au <span style="color: rgb(0, 115, 207);">09 69 32 90 90 (appel non 
+                  surtaxï¿½)</span>.<br><br>Dans ce cas, vous devez 
+                  obligatoirement rappeler le numï¿½ro de dossier mentionnï¿½ au 
+                  dï¿½but de ce message.</td></tr>
 
               <tr>
                 <td style="font-size: 0px;" valign="top" width="560" align="left">
@@ -196,23 +196,23 @@
                     <tbody>
                     <tr>
                       <td style="font-size: 0px;" valign="top" width="1" align="left" bgcolor="#0073cf"><br></td>
-                      <td style="font-family: arial; color: rgb(0, 115, 207); font-size: 12px;" valign="middle" width="239" align="center" height="13"><b>Pourquoi protéger le droit des auteurs 
+                      <td style="font-family: arial; color: rgb(0, 115, 207); font-size: 12px;" valign="middle" width="239" align="center" height="13"><b>Pourquoi protï¿½ger le droit des auteurs 
                         ?</b></td>
                       <td style="font-size: 0px;" valign="top" width="1" align="left" bgcolor="#0073cf"><br></td>
 
                       <td style="font-size: 0px;" valign="top" width="319" align="left" bgcolor="#ffffff">&nbsp;</td></tr></tbody></table></td></tr>
               <tr>
                 <td style="text-align: justify; font-family: arial; color: rgb(0, 0, 0); font-size: 12px;" valign="middle" width="560" align="left" height="117">Sous les 
-                  apparences séduisantes de la gratuité, les pratiques qui ne 
-                  respectent pas le droit des auteurs des œuvres privent, en 
-                  effet, les créateurs de leur juste rétribution. Elles 
-                  représentent un grave danger pour l"économie du secteur 
-                  culturel et c"est la survie de la création artistique, sous 
+                  apparences sï¿½duisantes de la gratuitï¿½, les pratiques qui ne 
+                  respectent pas le droit des auteurs des ï¿½uvres privent, en 
+                  effet, les crï¿½ateurs de leur juste rï¿½tribution. Elles 
+                  reprï¿½sentent un grave danger pour l"ï¿½conomie du secteur 
+                  culturel et c"est la survie de la crï¿½ation artistique, sous 
                   toutes ses formes, qui est en cause. Pour mieux concilier les 
-                  avantages d"Internet et le respect de la création, nous vous 
+                  avantages d"Internet et le respect de la crï¿½ation, nous vous 
                   rappelons que des services en ligne de plus en plus nombreux 
-                  proposent aujourd"hui des offres légales attractives et 
-                  respectueuses des droits des créateurs.</td></tr>
+                  proposent aujourd"hui des offres lï¿½gales attractives et 
+                  respectueuses des droits des crï¿½ateurs.</td></tr>
               <tr>
                 <td style="font-size: 0px;" valign="top" width="560" align="left">
                   <table style="color: rgb(0, 0, 0);" border="0" cellpadding="0" cellspacing="0">
@@ -224,20 +224,20 @@
                       <td style="font-size: 0px;" valign="top" width="1" align="left" bgcolor="#0073cf"><br></td>
                       <td style="font-size: 0px;" valign="top" width="468" align="left" bgcolor="#ffffff">&nbsp;</td></tr></tbody></table></td></tr>
               <tr>
-                <td style="text-align: justify; font-family: arial; color: rgb(0, 0, 0); font-size: 12px;" valign="middle" width="560" align="left" height="244">• Le rôle de 
+                <td style="text-align: justify; font-family: arial; color: rgb(0, 0, 0); font-size: 12px;" valign="middle" width="560" align="left" height="244">ï¿½ Le rï¿½le de 
                   l"Hadopi n"est pas de sanctionner : lorsqu"un dossier le 
                   justifie, l"Hadopi le transmet au juge qui seul peut prononcer 
-                  une sanction.<br>• En aucun cas l"Hadopi ne réclame de somme 
-                  d"argent. Toute demande en ce sens relèverait d"une tentative 
-                  d"escroquerie de personnes malveillantes.<br>• Vous pouvez 
+                  une sanction.<br>ï¿½ En aucun cas l"Hadopi ne rï¿½clame de somme 
+                  d"argent. Toute demande en ce sens relï¿½verait d"une tentative 
+                  d"escroquerie de personnes malveillantes.<br>ï¿½ Vous pouvez 
                   consulter le site de l"Hadopi <span style="color: rgb(0, 115, 207);">www[.]hadopi[.]fr</span> pour 
                   obtenir des informations sur ses missions, sur le dispositif 
-                  applicable, sur l"offre légale et sur les moyens de 
-                  sécurisation.<br>• Vous pouvez également demander des 
-                  informations sur les moyens de sécurisation à votre 
-                  fournisseur d"accès internet.<br><br><br>Veuillez agréer, 
+                  applicable, sur l"offre lï¿½gale et sur les moyens de 
+                  sï¿½curisation.<br>ï¿½ Vous pouvez ï¿½galement demander des 
+                  informations sur les moyens de sï¿½curisation ï¿½ votre 
+                  fournisseur d"accï¿½s internet.<br><br><br>Veuillez agrï¿½er, 
                   Madame, Monsieur, l"expression de mes salutations 
-                  distinguées.<br><br>Mireille IMBERT-QUARETTA<br>Présidente de 
+                  distinguï¿½es.<br><br>Mireille IMBERT-QUARETTA<br>Prï¿½sidente de 
                   la Commission de Protection des Droits de l"Hadopi</td></tr>
 
               <tr>
@@ -256,67 +256,61 @@
                       <td style="font-size: 0px;" valign="top" width="494" align="left" bgcolor="#ffffff">&nbsp;</td></tr></tbody></table></td></tr>
               <tr>
                 <td style="text-align: justify; font-family: arial; color: rgb(0, 0, 0); font-size: 12px;" valign="middle" width="560" align="left" height="768">Code de la 
-                  propriété intellectuelle<br><br>*Article L. 336-3 du code de 
-                  la propriété intellectuelle :<br>« La personne titulaire de 
-                  l"accès à des services de communication au public en ligne a 
-                  l"obligation de veiller à ce que cet accès ne fasse pas 
+                  propriï¿½tï¿½ intellectuelle<br><br>*Article L. 336-3 du code de 
+                  la propriï¿½tï¿½ intellectuelle :<br>ï¿½ La personne titulaire de 
+                  l"accï¿½s ï¿½ des services de communication au public en ligne a 
+                  l"obligation de veiller ï¿½ ce que cet accï¿½s ne fasse pas 
                   l"objet d"une utilisation a des fins de reproduction, de 
-                  représentation, de mise à disposition ou de communication au 
-                  public d"œuvres ou d"objets protégés par un droit d"auteur ou 
+                  reprï¿½sentation, de mise ï¿½ disposition ou de communication au 
+                  public d"ï¿½uvres ou d"objets protï¿½gï¿½s par un droit d"auteur ou 
                   par un droit voisin sans l"autorisation des titulaires des 
-                  droits prévus aux livres Ier et II lorsqu"elle est requise 
-                  ».<br>« Le manquement de la personne titulaire de l"accès à 
-                  l"obligation définie au premier alinéa n"a pas pour effet 
-                  d"engager la responsabilité pénale de l"intéressé, sous 
-                  réserve des articles L. 335-7 et L. 335-7-1 ».<br><br>** 
-                  Article R. 335-5 du code de la propriété 
-                  intellectuelle<br><br>I.-Constitue une négligence 
-                  caractérisée, punie de l"amende prévue pour les contraventions 
-                  de la cinquième classe, le fait, sans motif légitime, pour la 
-                  personne titulaire d"un accès à des services de communication 
-                  au public en ligne, lorsque se trouvent réunies les conditions 
-                  prévues au II :<br><br>1° Soit de ne pas avoir mis en place un 
-                  moyen de sécurisation de cet accès ;<br><br>2° Soit d"avoir 
-                  manqué de diligence dans la mise en œuvre de ce 
+                  droits prï¿½vus aux livres Ier et II lorsqu"elle est requise 
+                  ï¿½.<br>ï¿½ Le manquement de la personne titulaire de l"accï¿½s ï¿½ 
+                  l"obligation dï¿½finie au premier alinï¿½a n"a pas pour effet 
+                  d"engager la responsabilitï¿½ pï¿½nale de l"intï¿½ressï¿½, sous 
+                  rï¿½serve des articles L. 335-7 et L. 335-7-1 ï¿½.<br><br>** 
+                  Article R. 335-5 du code de la propriï¿½tï¿½ 
+                  intellectuelle<br><br>I.-Constitue une nï¿½gligence 
+                  caractï¿½risï¿½e, punie de l"amende prï¿½vue pour les contraventions 
+                  de la cinquiï¿½me classe, le fait, sans motif lï¿½gitime, pour la 
+                  personne titulaire d"un accï¿½s ï¿½ des services de communication 
+                  au public en ligne, lorsque se trouvent rï¿½unies les conditions 
+                  prï¿½vues au II :<br><br>1ï¿½ Soit de ne pas avoir mis en place un 
+                  moyen de sï¿½curisation de cet accï¿½s ;<br><br>2ï¿½ Soit d"avoir 
+                  manquï¿½ de diligence dans la mise en ï¿½uvre de ce 
                   moyen.<br><br>II.-Les dispositions du I ne sont applicables 
-                  que lorsque se trouvent réunies les deux conditions suivantes 
-                  :<br><br>1° En application de l"article L. 331-25 et dans les 
-                  formes prévues par cet article, le titulaire de l"accès s"est 
+                  que lorsque se trouvent rï¿½unies les deux conditions suivantes 
+                  :<br><br>1ï¿½ En application de l"article L. 331-25 et dans les 
+                  formes prï¿½vues par cet article, le titulaire de l"accï¿½s s"est 
                   vu recommander par la commission de protection des droits de 
-                  mettre en œuvre un moyen de sécurisation de son accès 
-                  permettant de prévenir le renouvellement d"une utilisation de 
-                  celui-ci à des fins de reproduction, de représentation ou de 
-                  mise à disposition ou de communication au public d"œuvres ou 
-                  d"objets protégés par un droit d"auteur ou par un droit voisin 
-                  sans l"autorisation des titulaires des droits prévus aux 
-                  livres Ier et II lorsqu"elle est requise ;<br><br>2° Dans 
-                  l"année suivant la présentation de cette recommandation, cet 
-                  accès est à nouveau utilisé aux fins mentionnées au 1° du 
-                  présent II.<br><br>III.-Les personnes coupables de la 
-                  contravention définie au I peuvent, en outre, être condamnées 
-                  à la peine complémentaire de suspension de l"accès à un 
-                  service de communication au public en ligne pour une durée 
-                  maximale d"un mois, conformément aux dispositions de l"article 
-                  L. 335-7-1.<br><br>Données à caractère personnel<br><br>Loi 
-                  n°78-17 du 6 janvier 1978 relative à l"informatique, aux 
-                  fichiers et aux libertés (articles 39 et 40)<br><br>Les 
-                  données à caractère personnel recueillies par la Commission de 
-                  Protection des Droits de l"Hadopi sont enregistrées dans 
-                  le<br>« système de gestion des mesures pour la protection des 
-                  œuvres sur Internet ». Vous bénéficiez d"un droit d"accès et 
-                  d"un droit de rectification de ces données.<br>Si vous 
-                  souhaitez exercer ces droits vous pouvez écrire à la 
-                  présidente de la Commission de Protection des Droits en 
-                  joignant une copie d"une pièce d"identité à l"adresse 
-                  ci-dessus mentionnée en précisant sur l"enveloppe : « droit 
-                  d"accès ».<br><br>*** horaire GMT</td></tr>
+                  mettre en ï¿½uvre un moyen de sï¿½curisation de son accï¿½s 
+                  permettant de prï¿½venir le renouvellement d"une utilisation de 
+                  celui-ci ï¿½ des fins de reproduction, de reprï¿½sentation ou de 
+                  mise ï¿½ disposition ou de communication au public d"ï¿½uvres ou 
+                  d"objets protï¿½gï¿½s par un droit d"auteur ou par un droit voisin 
+                  sans l"autorisation des titulaires des droits prï¿½vus aux 
+                  livres Ier et II lorsqu"elle est requise ;<br><br>2ï¿½ Dans 
+                  l"annï¿½e suivant la prï¿½sentation de cette recommandation, cet 
+                  accï¿½s est ï¿½ nouveau utilisï¿½ aux fins mentionnï¿½es au 1ï¿½ du 
+                  prï¿½sent II.<br><br>III.-Les personnes coupables de la 
+                  contravention dï¿½finie au I peuvent, en outre, ï¿½tre condamnï¿½es 
+                  ï¿½ la peine complï¿½mentaire de suspension de l"accï¿½s ï¿½ un 
+                  service de communication au public en ligne pour une durï¿½e 
+                  maximale d"un mois, conformï¿½ment aux dispositions de l"article 
+                  L. 335-7-1.<br><br>Donnï¿½es ï¿½ caractï¿½re personnel<br><br>Loi 
+                  nï¿½78-17 du 6 janvier 1978 relative ï¿½ l"informatique, aux 
+                  fichiers et aux libertï¿½s (articles 39 et 40)<br><br>Les 
+                  donnï¿½es ï¿½ caractï¿½re personnel recueillies par la Commission de 
+                  Protection des Droits de l"Hadopi sont enregistrï¿½es dans 
+                  le<br>ï¿½ systï¿½me de gestion des mesures pour la protection des 
+                  ï¿½uvres sur Internet ï¿½. Vous bï¿½nï¿½ficiez d"un droit d"accï¿½s et 
+                  d"un droit de rectification de ces donnï¿½es.<br>Si vous 
+                  souhaitez exercer ces droits vous pouvez ï¿½crire ï¿½ la 
+                  prï¿½sidente de la Commission de Protection des Droits en 
+                  joignant une copie d"une piï¿½ce d"identitï¿½ ï¿½ l"adresse 
+                  ci-dessus mentionnï¿½e en prï¿½cisant sur l"enveloppe : ï¿½ droit 
+                  d"accï¿½s ï¿½.<br><br>*** horaire GMT</td></tr>
                   <tr>
-                <td style="text-align: justify; font-family: arial; color: rgb(0, 0, 0); font-size: 10px;" valign="middle" width="560" align="left" height="768">
-                
-                En fait cet e-mail est une blague, comme vous le confirmera 
-                un de vos proches prochainement (s\'il/elle est honnête !).
-                
-                </td></tr>
                   
                   
                   </tbody></html>';
@@ -339,6 +333,6 @@ $message .= "\r\n\r\n";
 				  
 	mail($destinataire,$sujet,$message,$headers);
   
-	echo "Votre Mail a bien été envoyé";
+	echo "Votre Mail a bien ï¿½tï¿½ envoyï¿½";
 
 ?>
